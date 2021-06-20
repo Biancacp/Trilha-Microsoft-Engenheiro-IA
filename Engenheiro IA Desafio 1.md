@@ -68,7 +68,6 @@ import urllib.request
 import json
 import os
 
-# Prepare the input data
 data = {
     "Inputs": {
         "WebServiceInput0":
